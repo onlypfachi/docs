@@ -19,7 +19,7 @@ or once for each member of an array. The process of repeating the code block is 
 
 ## `for` Loop
 
-A `for` loop is used in PHP when it is known how many times its bock of code should execute. The syntax looks like this:
+A `for` loop is used in PHP when it is known how many times its block of code should execute. The syntax looks like this:
 
 ```pseudo
 for (init; test; increment) {
